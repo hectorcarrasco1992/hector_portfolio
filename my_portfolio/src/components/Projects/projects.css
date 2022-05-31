@@ -1,0 +1,31 @@
+#project-pic{
+    width:50%
+}
+
+.project-card{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+#projects-header{
+    align-items: center;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.project-container{
+    background-color: grey;
+}
+
+#text-card{
+    font-family: fantasy;
+    margin-left: 10px;
+}
+
+.visit-button:hover{
+    width: 40px;
+    color: green;
+    background-color: black;
+    cursor: pointer;
+}

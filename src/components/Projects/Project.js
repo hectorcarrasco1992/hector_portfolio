@@ -22,7 +22,7 @@ export default class Projects extends React.Component {
               An E-commerce site to sell superhero memorabilia. Made with
               ReactJs,NodeJs,React-Redux and SQL.
             </p>
-            <a href="https://the-super-store.herokuapp.com/" target="_blank">
+            <a href="https://the-super-store.herokuapp.com/" target="_blank" rel="noreferrer">
               <button className="visit-button">Visit</button>
             </a>
           </div>
@@ -41,7 +41,7 @@ export default class Projects extends React.Component {
               the staff of Full Stack Academy. Built with Phaser,Javascript and
               React-Redux.
             </p>
-            <a href="https://janken-coliseum1.herokuapp.com/" target="_blank">
+            <a href="https://janken-coliseum1.herokuapp.com/" target="_blank" rel="noreferrer">
               <button className="visit-button">Visit</button>
             </a>
           </div>
